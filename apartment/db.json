@@ -1,0 +1,25 @@
+{
+    "apartment": [
+        {
+            "id":"1",
+            "type":"owner",
+            "block":"A",
+            "number":"101",
+            "recidents":"5"
+        },
+        {
+            "id":"2",
+            "type":"tenent",
+            "block":"B",
+            "number":"102",
+            "recidents":"4"
+        },
+        {
+            "id":"3",
+            "type":"owner",
+            "block":"C",
+            "number":"103",
+            "recidents":"3"
+        }
+    ]
+}
