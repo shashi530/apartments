@@ -43,6 +43,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ### Deployment
 
 This section has moved here: [Click Here](https://unit6-apartments-assignment.netlify.app/)
-
-### `npm run build` fails to minify
-)
